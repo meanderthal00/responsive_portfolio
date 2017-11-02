@@ -241,7 +241,7 @@ input[type=submit] {
 @media screen and (max-width: 980px) {
   .main-section{
     max-width: 60%;
-    background-color: lightsalmon;
+  
     margin-left: 26px;
     display: flex;
     flex-direction: column;
@@ -272,7 +272,7 @@ input[type=submit] {
   
 
  .main-section{
-   background-color: lawngreen;
+ 
    max-width: 92%;
    flex-direction: column;
  }
